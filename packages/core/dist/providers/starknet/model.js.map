@@ -1,0 +1,1 @@
+{"version":3,"file":"model.js","sourceRoot":"","sources":["../../../src/providers/starknet/model.ts"],"names":[],"mappings":";;;AAAA,uCAA6D;AAYhD,QAAA,sBAAsB,GAAkB;IACnD,OAAO,EAAE,SAAS;IAClB,OAAO,EAAE,GAAG,EAAE,CAAC,SAAS;IACxB,UAAU,EAAE,GAAG,EAAE,CAAC,SAAS;IAC3B,OAAO,EAAE,0BAAe;IACxB,UAAU,EAAE,EAAE;CACf,CAAA"}
